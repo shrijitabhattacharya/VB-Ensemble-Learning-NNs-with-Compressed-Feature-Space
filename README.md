@@ -1,4 +1,4 @@
-Supplementary Code for "Variational Bayes Ensemble Learning Neural Networks With Compressed Feature Space" by Z. Lihuan, S. Bhattacharya and T. Maiti.
+Code files Description:
 
 IEEE_simulation4.py gives the code to replicate results under Table II of the paper for the SimulateIV dataset.
 
